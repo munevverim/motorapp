@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1084722888039",
+    "firebase_url": "https://chatapp-2c5c5-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-2c5c5",
+    "storage_bucket": "chatapp-2c5c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084722888039:android:8d7ca245949d40fad083c2",
+        "android_client_info": {
+          "package_name": "com.example.image_to_text_generator_getx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4S-rRccwpODssW6K3nq6qHAbaiRPpWm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084722888039:android:907a28128f634026d083c2",
+        "android_client_info": {
+          "package_name": "com.example.pizza_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4S-rRccwpODssW6K3nq6qHAbaiRPpWm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084722888039:android:c776625d460aa49dd083c2",
+        "android_client_info": {
+          "package_name": "com.example.teto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4S-rRccwpODssW6K3nq6qHAbaiRPpWm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
